@@ -12,10 +12,10 @@ const MyEditor: React.FC = () => {
     if (editorRef.current) {
       new Editor({
         el: editorRef.current,
-        height: "600px",
+        height: "auto",
         initialEditType: "markdown",
         previewStyle: "vertical",
-        initialValue: initialMarkdown, // Use initial markdown content
+        initialValue: initialMarkdown, 
         plugins: [
           [
             chartPlugin,
