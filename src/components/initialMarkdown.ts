@@ -2,6 +2,8 @@ const initialMarkdown = `# The Basics of Investment
 
 Investing is the process of allocating money or resources in the hope of generating an income or profit. It is a crucial component of financial planning and wealth building. Whether you're looking to grow your savings, generate income, or both, understanding the basics of investing can help you make informed decisions and achieve your financial goals.
 
+![investment-image](https://res.cloudinary.com/dtktu7rso/image/upload/v1724110638/zjzugz7n0cqo9xztjloz.jpg)
+
 ## Why Invest?
 
 1. **Wealth Growth**: Investing allows your money to grow over time, potentially outpacing inflation and increasing your purchasing power.
