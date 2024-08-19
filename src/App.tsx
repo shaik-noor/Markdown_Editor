@@ -1,25 +1,20 @@
-import React from "react";
 import MyEditor from "./components/Editor";
+import React from "react";
 
 function App() {
   return (
-    <div className="App min-h-screen flex flex-col justify-between">
-      <header className="py-8">
-        <h1 className="text-4xl font-bold text-center text-gray-800">
+    <div className="App flex flex-col min-h-screen">
+      <header className="bg-gradient-to-r from-blue-500 to-purple-500 py-4">
+        <h1 className="max-w-3xl mx-auto text-center text-white text-4xl font-bold">
           Custom Markdown Editor
         </h1>
-        <p className="text-center text-gray-500 mt-2">
-          A simple, customizable markdown editor with chart support.
-        </p>
       </header>
       <main className="flex-grow">
-        <div className="max-w-7xl mx-auto px-4">
-          <MyEditor />
-        </div>
+        <MyEditor />
       </main>
-      <footer className="py-6 text-center bg-gray-800 text-white">
-        <p className="text-sm">
-          Built with <span className="text-red-500">❤️</span> by Shaik Noor
+      <footer className="bg-gray-800 py-4">
+        <p className="text-center text-white">
+          Built with ❤️ by Shaik Noor
         </p>
       </footer>
     </div>
