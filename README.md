@@ -4,4 +4,4 @@
 
 `npm install && npm run dev`
 
-![Markdown-Editor](https://res.cloudinary.com/dtktu7rso/image/upload/v1731604098/Screenshot_14-11-2024_222720_localhost_h3hg6x.jpg)
+![Markdown-Editor](https://asset.cloudinary.com/dtktu7rso/faa8a6d2bd73f952edd312705325efe7)
